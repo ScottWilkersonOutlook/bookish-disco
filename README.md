@@ -5,6 +5,11 @@
 #### `This is a backtick to denote code. I wonder if this works in Confluence`
 ###### h6 Heading
 
+```is
+console.log("HELLO!");
+console.log("HELLO!");
+````
+
 
 ## Horizontal Rules
 
